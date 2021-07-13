@@ -4,4 +4,4 @@ PIXI Dust attack
 git clone https://github.com/samuraisudo/pixi_d.git
 # start
 cd pixi_d <br>
-sudo ./start.sh
+sudo ./start.sh wlan0
